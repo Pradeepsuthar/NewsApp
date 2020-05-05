@@ -1,0 +1,23 @@
+/* Add application styles & imports to this file! */
+
+.bg-theam{
+  background-color: rgb(37, 37, 37);
+}
+.text-theam{
+  color: #fff;
+}
+.navbar-brand{
+  color: #fff; 
+  font-weight: bold;
+}
+
+/* .bg-theam{
+  background-color:#fff;
+}
+.text-theam{
+  color: #222;
+}
+.navbar-brand{
+  color: #3b5998; 
+  font-weight: bold;
+} */
